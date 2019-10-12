@@ -1,0 +1,32 @@
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\MovieList.exe.config
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\MovieList.exe
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\MovieList.pdb
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\obj\Debug\MovieList.csprojResolveAssemblyReference.cache
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\obj\Debug\MovieList.exe
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\obj\Debug\MovieList.pdb
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\Newtonsoft.Json.dll
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\Newtonsoft.Json.xml
+c:\users\sdhanalakshmi\documents\visual studio 2015\Projects\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\MovieList\MovieList\MovieList\obj\Debug\MovieList.csprojAssemblyReference.cache
+C:\Projects\MovieList\MovieList\MovieList\obj\Debug\MovieList.exe
+C:\Projects\MovieList\MovieList\MovieList\obj\Debug\MovieList.pdb
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\MovieList.exe.config
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\MovieList.exe
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\MovieList.pdb
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\MovieList\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\MovieList\MovieList\MovieList\obj\Debug\MovieList.csproj.CopyComplete
+C:\Projects\MovieList\MovieList\bin\Debug\MovieList.exe.config
+C:\Projects\MovieList\MovieList\bin\Debug\MovieList.exe
+C:\Projects\MovieList\MovieList\bin\Debug\MovieList.pdb
+C:\Projects\MovieList\MovieList\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\MovieList\MovieList\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\MovieList\MovieList\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\MovieList\MovieList\obj\Debug\MovieList.csprojAssemblyReference.cache
+C:\Projects\MovieList\MovieList\obj\Debug\MovieList.csproj.CopyComplete
+C:\Projects\MovieList\MovieList\obj\Debug\MovieList.exe
+C:\Projects\MovieList\MovieList\obj\Debug\MovieList.pdb
